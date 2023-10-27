@@ -1,4 +1,4 @@
-# VBA_Edition_Facture_en_PDF
+# VBA Edition Facture en PDF
 Je vous invite à aller voir la vidéo concernant ce code : 
 https://www.youtube.com/watch?v=9fUf9X9Wm_Q&t=340s
 
